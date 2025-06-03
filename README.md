@@ -4,7 +4,6 @@ I'm a **Generative AI Engineer** and **Conversational AI Developer** specializin
 
 I’ve worked across startups and enterprise-level systems to build production-grade chatbots that go far beyond simple FAQ scripts. My solutions integrate memory, document search, APIs, CRMs, and vector databases to create natural, dynamic, and accurate conversations.
 
----
 
 ## 🧠 Generative AI & Chatbot Expertise
 
@@ -14,7 +13,6 @@ I’ve worked across startups and enterprise-level systems to build production-g
 - Vector DBs: Pinecone, Weaviate, ChromaDB, Qdrant
 - Multimodal AI: Whisper (speech-to-text), DALL·E & StabilityAI (image generation)
 
----
 
 ## 🛠️ Supporting Technical Stack
 
@@ -31,8 +29,7 @@ I’ve worked across startups and enterprise-level systems to build production-g
 **Tooling & Integrations**
 - GitHub Actions (CI/CD), Pytest, Jest
 - Slack, Telegram, Twilio, WhatsApp Business API, Notion, Zapier
-
----
+  
 
 ## 💬 Chatbot Use Cases I’ve Delivered
 
@@ -43,15 +40,3 @@ I’ve worked across startups and enterprise-level systems to build production-g
 
 If you're looking to integrate an AI assistant into your SaaS app, automate support with a custom chatbot, or explore complex LLM workflows—I’d love to help bring your vision to life.
 
-
----
-
-## 📫 Let’s Connect
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-- [Email](mailto:youremail@example.com)
-
-If you're building an AI assistant into your SaaS app or automating support with a custom chatbot—**I'd love to help bring your vision to life.**
-
----
